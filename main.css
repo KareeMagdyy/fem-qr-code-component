@@ -28,7 +28,7 @@ p {
 img {
   width: 100%;
   max-width: 290px;
-  border-radius: 10px;
+  border-radius: 16px;
 }
 
 .attribution {
@@ -57,7 +57,7 @@ img {
   width: 320px;
   padding: 1rem 0;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 16px;
 }
 
 .flex h2,
