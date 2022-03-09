@@ -27,7 +27,7 @@ p {
 
 img {
   width: 100%;
-  max-width: 260px;
+  max-width: 290px;
   border-radius: 10px;
 }
 
@@ -44,7 +44,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 90vh;
+  height: 95vh;
 }
 
 .flex {
@@ -54,7 +54,7 @@ img {
   align-items: center;
   gap: 1rem;
   background-color: var(--clr-white);
-  width: 290px;
+  width: 320px;
   padding: 1rem 0;
   text-align: center;
   border-radius: 10px;
